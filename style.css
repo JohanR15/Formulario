@@ -1,0 +1,17 @@
+.field{
+    border-radius: 10px;
+}
+
+body{
+    background-color: #3A3845;
+}
+
+form{
+    background-color: #F7CCAC;  /*Color del fondo*/
+    border-radius: 10px; /*Bordeado de el formulario*/
+    color: black; /*Color de las letras*/
+    font-size: 16px;
+    margin: 30px;
+    width: 300px;
+    height: 200px;
+}
